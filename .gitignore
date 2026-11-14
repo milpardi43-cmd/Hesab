@@ -1,0 +1,23 @@
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+*.iml
+.idea/
+.kotlin/
+
+# Signing keys and local signing properties
+*.jks
+*.keystore
+keystore.properties
+
+# Xcode / SwiftPM
+DerivedData/
+.build/
+*.xcuserstate
+xcuserdata/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
